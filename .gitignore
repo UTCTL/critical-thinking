@@ -6,5 +6,4 @@ sites/*/files
 sites/*/private
 
 # Custom ignore paths for the Critical Thinking site
-sites/all/modules/*
 sites/all/themes/zen/*
